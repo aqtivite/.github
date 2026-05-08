@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F59E0B&center=true&vCenter=true&width=520&lines=Concerts+%F0%9F%8E%B5;Workshops+%E2%9C%8F%EF%B8%8F;Exhibitions+%F0%9F%96%BC%EF%B8%8F;Meetups+%F0%9F%A4%9D;Festivals+%F0%9F%8E%AA;Live+life+to+the+fullest+with+Aqtivite!)](https://www.aqtivite.com.tr)
 
-<br />
 
 [![Website](https://img.shields.io/badge/🌐_aqtivite.com.tr-FF6B6B?style=for-the-badge&logoColor=white)](https://www.aqtivite.com.tr/)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=tr.com.aqtivite.app)
@@ -45,7 +44,6 @@ Aqtivite is a growing discovery platform for **events, places, gatherings, and m
 </div>
 
 |  | |
-|:---:|:---|
 | 🔍 | **Discover** — every event, place, and community in your city, on one screen |
 | ❤️ | **Save** — keep the things you love, never miss them |
 | 🎟️ | **Book tickets** — with assigned seating, instantly, in one tap |
