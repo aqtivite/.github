@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aqtivite/.github/main/assets/logo.svg" width="140" alt="Aqtivite" />
+<img src="https://raw.githubusercontent.com/aqtivite/.github/main/assets/logo.png" width="140" alt="Aqtivite" />
 
 ### 🎉 Everything happening in your city, in one app.
 
