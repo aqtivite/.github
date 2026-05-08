@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/aqtivite/.github/main/assets/logo.svg" width="140" alt="Aqtivite" />
 
-# Aqtivite
-
 ### 🎉 Everything happening in your city, in one app.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F59E0B&center=true&vCenter=true&width=520&lines=Concerts+%F0%9F%8E%B5;Workshops+%E2%9C%8F%EF%B8%8F;Exhibitions+%F0%9F%96%BC%EF%B8%8F;Meetups+%F0%9F%A4%9D;Festivals+%F0%9F%8E%AA;Live+life+to+the+fullest+with+Aqtivite!)](https://www.aqtivite.com.tr)
